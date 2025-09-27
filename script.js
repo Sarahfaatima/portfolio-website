@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Download Resume button
     document.querySelector(".btn:first-child").addEventListener("click", function () {
-        window.open("assets/SARAH FATIMA Resume.pdf");
+        window.open("assets/Sarah Fatima_Resume.pdf");
     });
 
     // Visit GitHub button
